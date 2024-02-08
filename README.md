@@ -27,7 +27,7 @@
 
 <br><br>
 
-----------
+<hr>
 
 <p align="center"><b>Dream as high as the sky if you fall then fall among the stars :)</b></p>
 
